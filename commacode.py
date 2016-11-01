@@ -16,7 +16,7 @@ def listname(givenlist):
             dostring = dostring + ', '
     return dostring
 
-#this is list
+#variable for the list
 makealist = []
 
 print ('For which you are going to make a list')
