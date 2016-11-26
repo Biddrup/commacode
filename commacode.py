@@ -1,9 +1,10 @@
-#This will take a list from user and
-#return with all the iteams by a comma and a space
-# inserted 'and' before the last one
+'''This will take a list from user and
+return with all the iteams by a comma and a space
+inserted 'and' before the last one
 
 
-#This function will make list to string
+This function will make list to string'''
+
 def listname(givenlist):
     dostring = ''
     for i in givenlist:
